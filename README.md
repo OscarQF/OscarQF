@@ -1,6 +1,6 @@
 <h1 align="center">👋😊 ¡Welcome! I’m Óscar 🖱️⌨️</h1>
 
-- 🌱 I’m currently studying software engineer
+- 🌱 I’m currently studying software engineering
 
 <!---
 OscarQF/OscarQF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
